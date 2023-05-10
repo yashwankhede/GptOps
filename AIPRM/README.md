@@ -12,7 +12,7 @@ tell you enough!📖💁‍
 Add "AIPRM for ChatGPT" as a Chrome Extension🌐
 
 <p align="center">
-  <img src="AIPRM.png" alt="MasterHead">
+  <img src="../Images/AIPRM.png" alt="MasterHead">
 </p>
 
 Follow all the download instructions, and let's move onto
@@ -28,7 +28,7 @@ to use with ChatGPT - let's check out the best!🤩🙌
 ### 1. Outrank Competitor's Article🔝🏆
 
 <p align="center">
-  <img src="Outrank.png" alt="MasterHead">
+  <img src="../Images/Outrank.png" alt="MasterHead">
 </p>
 
 Easily my favorite prompt on the extension, this tool is LEGIT!💯
@@ -38,7 +38,7 @@ Simply paste the URL of a competitor blog post into the prompt, and it will crea
 ### 2. Write a Complete Book in One Click📚💻
 
 <p align="center">
-  <img src="Book.png" alt="MasterHead">
+  <img src="../Images/Book.png" alt="MasterHead">
 </p>
 
 #### Wait, wait, wait...!!!
@@ -47,7 +47,7 @@ You mean I can create a FULL book by only typing in the topic I'm looking for?�
 ### 3. One Click Course Creator📝🎓
 
 <p align="center">
-  <img src=".png" alt="MasterHead">
+  <img src="../Images/Course.png" alt="MasterHead">
 </p>
 
 If you are creating a course, project, or outline, I STRONGLY suggest using the One Click Course Creator. Even if you have everything planned out, it never hurts to get extra inspiration!!!🤓💡
