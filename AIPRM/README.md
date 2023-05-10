@@ -80,11 +80,11 @@ Test, test, test!!!🧪👨🔬
 
 ## Handy Expressions💭↩️🧑‍🏫🎭
 
-    "Let's think step by step"
+    Let's think step by step
 #### This makes the AI think logically and can be specifically helpful with math problems.
-    "Thinking backwards"
+    Thinking backwards
 #### This can help if the AI keeps arriving at inaccurate conclusions.
-    "In the style of [famous person]"
+    In the style of [famous person]
 #### This will help match styles really well.
-    "As a [insert profession/role]"
+    As a [insert profession/role]
 #### This helps frame the bot's knowledge, so it knows what it knows—and what it doesn't.
