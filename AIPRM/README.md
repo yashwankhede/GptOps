@@ -78,7 +78,7 @@ Test, test, test!!!🧪👨🔬
 💡Give examples of what you are looking for  
 🕵️‍♂️Use prompts to avoid AI detection*
 
-## Handy Expressions💭↩️🧑‍🏫🎭
+## Handy Expressions💭↩🧑‍🏫🎭
 
     Let's think step by step
 #### This makes the AI think logically and can be specifically helpful with math problems.
